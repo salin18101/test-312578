@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"actor-1","classId":1,"equips":[1,1,2],"faceIndex":0,"faceName":"Actor0","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sibera","nickname":"","note":"","profile":"Princess of Batonia\nAs knight, she leads her army to the dangerous battle ground to defend her kingdom."},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"actor-2","classId":2,"equips":[2,1,3],"faceIndex":1,"faceName":"Actor0","traits":[],"initialLevel":20,"maxLevel":99,"name":"Maria","nickname":"","note":"","profile":"Knight commander and Sibera’s best friend.\nShe and Sibera got separated at the beginning."},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"actor-5","classId":3,"equips":[3,1,4],"faceIndex":2,"faceName":"Actor0","traits":[],"initialLevel":1,"maxLevel":99,"name":"Guard Knight","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"actor-5","classId":3,"equips":[4,1,4],"faceIndex":2,"faceName":"Actor0","traits":[],"initialLevel":1,"maxLevel":99,"name":"Guard Knight","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"actor-5","classId":3,"equips":[3,1,4],"faceIndex":2,"faceName":"Actor0","traits":[],"initialLevel":20,"maxLevel":99,"name":"Guard Knight","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"actor-5","classId":3,"equips":[4,1,4],"faceIndex":2,"faceName":"Actor0","traits":[],"initialLevel":20,"maxLevel":99,"name":"Guard Knight","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
